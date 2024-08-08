@@ -1,6 +1,6 @@
 pandas
 matplotlib
 seaborn
-sklearn
+scikit-learn
 sentence-transformers
 streamlit
